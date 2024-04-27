@@ -1,4 +1,4 @@
-package ce.dankook.lab3.controller;
+package ce.dankook.lab3;
 
 
 import dankook.ce.lab2.dto.EarthquakeDto;

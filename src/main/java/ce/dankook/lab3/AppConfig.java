@@ -1,4 +1,4 @@
-package ce.dankook.lab3.config;
+package ce.dankook.lab3;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

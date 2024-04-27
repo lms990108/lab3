@@ -1,4 +1,4 @@
-package ce.dankook.lab3.dto;
+package ce.dankook.lab3;
 
 import lombok.Getter;
 import lombok.Setter;

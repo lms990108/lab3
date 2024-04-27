@@ -1,4 +1,4 @@
-package ce.dankook.lab3.controller;
+package ce.dankook.lab3;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

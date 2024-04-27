@@ -1,6 +1,6 @@
-package ce.dankook.lab3.service;
+package ce.dankook.lab3;
 
-import ce.dankook.lab3.dto.EarthquakeDto;
+import ce.dankook.lab3.EarthquakeDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
